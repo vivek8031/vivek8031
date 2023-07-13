@@ -26,9 +26,9 @@ I'm a Machine Learning Engineer passionate about pushing the boundaries of AI. I
 - Create immersive data visualizations to provide actionable insights 📈
 
 ## 📫 How to reach me
-You can reach me at [vivekreddychithari@gmail.com]. I'm always open to interesting conversations and collaboration.
+You can reach me at vivekreddychithari@gmail.com. I'm always open to interesting conversations and collaboration.
 
 ## 📚 What I'm currently learning
-Currently, I'm learning about [Deep Learning, Natural Language Processing and LLMs]
+Currently, I'm learning about Deep Learning, Natural Language Processing and LLMs
 
 Feel free to have a look at my work and let's get in touch!
